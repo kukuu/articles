@@ -1,4 +1,4 @@
-# Articulating Your Contributions as a Senior Leader: From Strategy to Personal Innovation
+## Articulating Your Contributions as a Senior Leader: From Strategy to Personal Innovation
 
 As an **IC** (individual contributor}, discussing your achievements and contributions feels natural and straightforward—features you shipped, errors you fixed, interfaces you crafted, or concepts that drove significant business value. You can demonstrate your worth by emphasizing the objectives you met through your own efforts or how your partnership with others facilitated a seamless cross-functional delivery.
 
