@@ -27,4 +27,4 @@ As a technical leader, I actively build to stay sharp. My personal projects are 
 
 - **SPYDER (energytariffscheck.com)**- An AI-driven energy tariff comparison tool with a "Digital Twin Smart Energy Meter Reader," built to help consumers and businesses save money and reduce carbon emissions through data-driven insights. It functions as a forecasting system, settlement tool, and AI quoting engine: https://www.energytariffscheck.com/
 
-**Love Joint** (lovejoint.store) - An e-commerce platform focused on "Nutraceuticals" and "Lifestyle & Healthy Living Boosters," targeting the growing market for wellness and dietary supplements: https://www.lovejoint.store/
+- **Love Joint** (lovejoint.store) - An e-commerce platform focused on "Nutraceuticals" and "Lifestyle & Healthy Living Boosters," targeting the growing market for wellness and dietary supplements: https://www.lovejoint.store/
