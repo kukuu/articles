@@ -1,4 +1,4 @@
-##  $${\color{blue}\text{Senior Leader Contributions: From Strategy to Innovation}}$$
+###  $${\color{blue}\text{Senior Leader Contributions: From Strategy to Innovation}}$$
 
 As an **IC** (individual contributor}, discussing your achievements and contributions feels natural and straightforward—features you shipped, errors you fixed, interfaces you crafted, or concepts that drove significant business value. You can demonstrate your worth by emphasizing the objectives you met through your own efforts or how your partnership with others facilitated a seamless cross-functional delivery.
 
