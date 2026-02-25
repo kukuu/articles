@@ -19,3 +19,12 @@ To further maintain and demonstrate your competitive edge, it is invaluable to l
 
 ## My Personal Product Portfolio: Bridging Strategy and Execution
 As a technical leader, I actively build to stay sharp. My personal projects are live platforms where I’ve applied full-cycle  architecture, development, design, and market thinking:
+
+- **Nut Cracker:** The Zero-Friction J2E (JSON to EXCEL) Converter - A full-stack, API-driven solution developed to eliminate the manual grind of data conversion. Built for Data Scientists, Fullstack Developers, and Programmers, it provides an intuitive web interface to instantly transform complex JSON structures into polished Excel spreadsheets and back again with a single click. Featuring a robust backend API, a clean modern UI with drag-and-drop uploads, and real-time file previews, Nut Cracker integrates seamlessly into any workflow—whether preparing datasets for analysis, building ETL pipelines, or editing configuration files: https://github.com/kukuu/JSON-Excel-Converter/blob/main/README.md
+
+  
+ - **AZZOTTO Movies**  - A global streaming and social platform designed to "connect all voices" by aggregating movies and trailers from Hollywood, Africa, and Asia, suggesting a focus on diverse, underrepresented content: https://www.azzottomovies.com/
+
+- **SPYDER (energytariffscheck.com)**- An AI-driven energy tariff comparison tool with a "Digital Twin Smart Energy Meter Reader," built to help consumers and businesses save money and reduce carbon emissions through data-driven insights. It functions as a forecasting system, settlement tool, and AI quoting engine: https://www.energytariffscheck.com/
+
+**Love Joint** (lovejoint.store) - An e-commerce platform focused on "Nutraceuticals" and "Lifestyle & Healthy Living Boosters," targeting the growing market for wellness and dietary supplements: https://www.lovejoint.store/
