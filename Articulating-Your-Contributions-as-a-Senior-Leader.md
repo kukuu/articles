@@ -28,3 +28,6 @@ As a technical leader, I actively build to stay sharp. My personal projects are 
 - **SPYDER (energytariffscheck.com)**- An AI-driven energy tariff comparison tool with a "Digital Twin Smart Energy Meter Reader," built to help consumers and businesses save money and reduce carbon emissions through data-driven insights. It functions as a forecasting system, settlement tool, and AI quoting engine: https://www.energytariffscheck.com/
 
 - **Love Joint** (lovejoint.store) - An e-commerce platform focused on "Nutraceuticals" and "Lifestyle & Healthy Living Boosters," targeting the growing market for wellness and dietary supplements: https://www.lovejoint.store/
+
+## The Value of Being a Practitioner-Leader
+Building these products independently provides a dual benefit. First, it ensures my technical skills remain current, allowing me to empathise with my teams' execution challenges authentically. Second, it acts as a powerful differentiator in a competitive landscape. It demonstrates that my leadership is not just about delegation, but about a continuous, personal commitment to innovation - proving I can still "write the code" while defining the strategy. This blend of high-level vision and hands-on creation is what keeps a leader competitive and deeply relevant.
