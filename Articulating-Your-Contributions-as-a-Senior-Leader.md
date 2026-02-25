@@ -15,3 +15,7 @@ Despite these challenges, there is a profound self-satisfaction that comes from 
 
 ## Showcasing Competitiveness Through Personal Innovation
 To further maintain and demonstrate your competitive edge, it is invaluable to look beyond your corporate role. True thought leadership is often solidified by what you build in your own time—passion projects that prove your ability to not just manage trends, but to create for them. These initiatives showcase a hands-on understanding of emerging technologies and market gaps, reinforcing that your strategic vision is grounded in contemporary, practical execution. They serve as a tangible portfolio that speaks louder than any resume bullet point about your adaptability and entrepreneurial drive.
+
+
+## My Personal Product Portfolio: Bridging Strategy and Execution
+As a technical leader, I actively build to stay sharp. My personal projects are live platforms where I’ve applied full-cycle  architecture, development, design, and market thinking:
