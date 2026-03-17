@@ -9,7 +9,8 @@ Turning Video Endings into Revenue Engines.
 
 - Articulating Your Contributions as a Senior Leader: From Strategy to Personal Innovation - https://github.com/kukuu/articles/blob/main/Articulating-Your-Contributions-as-a-Senior-Leader.md
 
-- The Impact of Artificial Intelligence on Search Engine Optimisation.: https://github.com/kukuu/AI-and-SEO/blob/main/AI-impact-on-SEO.md
+- The Impact of Artificial Intelligence on Search Engine Optimisation.
+  -  https://github.com/kukuu/AI-and-SEO/blob/main/AI-impact-on-SEO.md
 
 
 
