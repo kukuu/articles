@@ -1,5 +1,6 @@
 
 ## The Operational Spine of Generative AI: Five Non-Negotiable Levers
+_Author: Alexander Adu-Sarkodie_ | _Portfolio: https://github.com/kukuu/portfolio/blob/main/README.md_
 
 Beneath every fluent AI response lies a hidden assembly line of constraints and trade-offs. The core spine of modern AI modelling isn’t about neurons or layers - it’s about how the model ingests, limits, randomizes, fails, and retrieves information. For engineers and product teams, mastering these five components determines whether a model behaves like a reliable database or a creative but erratic assistant.
 
@@ -11,4 +12,4 @@ Beneath every fluent AI response lies a hidden assembly line of constraints and 
 
 In production, these five components interact continuously. A wide context window allows RAG to inject more retrieved passages, but increases token cost. Low temperature suppresses hallucination but also kills creative retrieval synthesis. High temperature without RAG produces confident fiction. Understanding this spine means you stop treating AI as magic and start tuning it like an engine: manage tokens, respect the window, set temperature by task, mitigate hallucination with retrieval, and tie it all together with RAG. That’s the difference between prompting and engineering.
 
-_Author: Alexander Adu-Sarkodie_ | _Portfolio: https://github.com/kukuu/portfolio/blob/main/README.md_
+
