@@ -11,4 +11,6 @@ Beneath every fluent AI response lies a hidden assembly line of constraints and 
 
 In production, these five components interact continuously. A wide context window allows RAG to inject more retrieved passages, but increases token cost. Low temperature suppresses hallucination but also kills creative retrieval synthesis. High temperature without RAG produces confident fiction. Understanding this spine means you stop treating AI as magic and start tuning it like an engine: manage tokens, respect the window, set temperature by task, mitigate hallucination with retrieval, and tie it all together with RAG. That’s the difference between prompting and engineering.
 
-_Author: Alexander Adu-Sarkodie_ | _Portfolio: https://github.com/kukuu/portfolio/blob/main/README.md_
+_Author: Alexander Adu-Sarkodie_ 
+
+_Portfolio: https://github.com/kukuu/portfolio/blob/main/README.md_
