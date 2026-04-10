@@ -1,5 +1,5 @@
 
-# The Operational Spine of Generative AI: Five Non-Negotiable Levers
+## The Operational Spine of Generative AI: Five Non-Negotiable Levers
 _Author: Alexander Adu-Sarkodie_ | _Portfolio: https://github.com/kukuu/portfolio/blob/main/README.md_
 
 
