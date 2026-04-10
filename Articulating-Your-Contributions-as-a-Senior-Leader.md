@@ -1,6 +1,7 @@
 #  Senior Leader Contributions: Strategy to Innovation
 
 _Author: Alexander Adu-Sarkodie_
+
 _Portfolio: https://github.com/kukuu/portfolio/blob/main/README.md_
 
 <!--##  $${\color{blue}\text{Senior Leader Contributions: Strategy to Innovation}}$$-->
