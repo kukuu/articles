@@ -1,7 +1,5 @@
 # $${\color{blue}\text{Publications}}$$
 
-## List
-
 - The Operational Spine of Generative AI
   - https://github.com/kukuu/articles/blob/main/The-Operational-Spine-of-Generative-AI.md
 
