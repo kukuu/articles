@@ -2,6 +2,9 @@
 
 ## List
 
+- The Operational Spine of Generative AI: Five Non-Negotiable Levers: 
+  - https://github.com/kukuu/articles/blob/main/The-Operational-Spine-of-Generative-AI.md
+
 - StreamJack-Interceptor
 Turning Video Endings into Revenue Engines.
 
